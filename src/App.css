@@ -89,6 +89,7 @@ footer {
   border: 1px solid #dcdcdc;
   width: auto;
   height: 5rem;
+  margin-top: 7rem;
 }
 footer span {
   cursor: pointer;
@@ -100,7 +101,7 @@ footer span {
   flex-wrap: wrap;
   gap: 2rem;
   overflow: scroll;
-  height: 21.3rem;
+  height: 28.4rem;
 }
 #main-final-box {
   border: 1px solid #d8d8d8;
@@ -113,7 +114,7 @@ footer span {
   padding-left: 1rem;
   padding-top: 1rem;
   gap: 0.5rem;
-  overflow: hidden;
+  overflow:scroll;
 }
 #main-final-box button {
   position: absolute;
